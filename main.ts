@@ -28,6 +28,7 @@ function lifeSet () {
 let hint = ""
 let answer = ""
 let solution = ""
+scene.setBackgroundColor(2)
 let input2 = game.askForString("What is your name?")
 game.splash("Hello " + input2 + "! " + "Welcome " + "to " + "Guess " + "the " + "Letter" + "!")
 lifeSet()
