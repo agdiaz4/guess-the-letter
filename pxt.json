@@ -2,7 +2,8 @@
     "name": "Guess the Letter",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "My Extension": "pub:19787-88869-18243-65913"
     },
     "files": [
         "main.blocks",
